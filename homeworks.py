@@ -1,4 +1,4 @@
-"""Homework solutions for the assignment in the screenshot."""
+"""Homework solutions for the assignment."""
 
 from __future__ import annotations
 
